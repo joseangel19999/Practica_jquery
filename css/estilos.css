@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.contenedor {
+    width: 200px;
+    height: 150px;
+    background: brown;
+    cursor: pointer;
+}
+
+#btnAceptar {
+    box-shadow: 0 8px 16px 0 rgba(139, 135, 135, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #0a0a0a;
+    background-color: rgb(139, 221, 163);
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
